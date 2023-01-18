@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khushalipatel11
-- 👀 I’m interested in .net, AngularJS
+- 👀 I’m interested in .net, .net Core
 - 🌱 I’m currently learning React and Angular
 - 💞️ I’m looking to collaborate on .net core
 - 📫 How to reach me khushali.patel@perficient.com
